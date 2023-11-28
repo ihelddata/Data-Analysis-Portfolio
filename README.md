@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ihelddata
 - 👀 I’m interested in all topics around data.
-- 🌱 I’m currently learning data analytics.
-- 💞️ I’m looking to collaborate on data analytics projects.
+- 🌱 Currently learning advanced data analytics.
+- 💞️ Looking to collaborate on advanced data analytics projects.
 - 📫 How to reach me : pm me.
 
 <!---
